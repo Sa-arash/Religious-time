@@ -1,0 +1,20 @@
+{
+    "name": "sa-arash/religious-time",
+    "description": "package for religious time",
+    "type": "project",
+    "require": {
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SaArash\\ReligiousTime\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saman",
+            "email": "sa.arash32@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
